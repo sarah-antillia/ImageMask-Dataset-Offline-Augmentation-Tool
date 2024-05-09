@@ -104,12 +104,11 @@ distortion method in OffilneImageMaskAugmentor.<br><br>
 <a id="2.1">2.1 Hippocampus</a>
 </h3>
 This is a simple sample project to apply the Offline Augmentation Tool to Hippocampus dataset.<br>
-Please move to "./projects/Hippocampus" directory,
-Please run the following bat file.<br>
+Please move to "./projects/Hippocampus" directory, and run the following bat file.<br>
 <pre>
 > 1.augment.bat,
 </pre>
-,which simply runs Python script OfflineImageMaskAugmentor.py with a <a href=""./projects/Hippocampus/generator.config">
+,which simply runs Python script OfflineImageMaskAugmentor.py with a <a href="./projects/Hippocampus/generator.config">
 generator.config</a> in the following way.<br>
 <pre>
 python ../../src/OffilneImageMaskAugmentor.py ./generator.config
@@ -205,12 +204,11 @@ will be created.<br>
 <a id="2.2">2.2 MultipleMyeloma</a>
 </h3>
 This is a simple sample project to apply the Offline Augmentation Tool to MultipleMyeloma dataset.<br>
-Please move to "./projects/MultipleMyeloma" directory,
-Please run the following bat file.<br>
+Please move to "./projects/MultipleMyeloma" directory, and run the following bat file.<br>
 <pre>
 > 1.augment.bat,
 </pre>
-,which simply runs Python script OfflineImageMaskAugmentor.py with a <a href=""./projects/MultipleMyeloma/generator.config">
+,which simply runs Python script OfflineImageMaskAugmentor.py with a <a href="./projects/MultipleMyeloma/generator.config">
 generator.config</a> in the following way.<br>
 <pre>
 python ../../src/OffilneImageMaskAugmentor.py ./generator.config
